@@ -26,8 +26,8 @@ vagrant plugin install vagrant-omnibus
 Clone the repository:
 
 ```
-git clone git@github.com:gigo6000/chef-symfony-vagrant.git 
-cd chef-symfony-vagrant
+git clone git@github.com:gigo6000/symfony-chef-vagrant.git 
+cd symfony-chef-vagrant
 ```
 
 Boot the Vagrant machine:
